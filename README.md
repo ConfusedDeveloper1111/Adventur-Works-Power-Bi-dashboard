@@ -2,10 +2,8 @@
 
 AdventureWorks is a production-grade business intelligence solution that transforms scattered CSV sales data into a centralized, interactive decision-making system. Built entirely in **Power BI**, it unifies 9 raw data sources into a Star Schema model with 15 custom DAX measures, delivering actionable insights across 6 executive dashboard pages.
 
-## 🔴 Live Report
-**[Power BI Service Link — *Add your published link here*]**
 
-![AdventureWorks Executive Intelligence Command](docs/executive-intelligence-command.png)
+![Executive Intelligence Command](docs/executive-intelligence-command.png)
 
 ---
 
